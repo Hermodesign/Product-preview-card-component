@@ -95,6 +95,7 @@ button {
   align-items: center;
   width: 14.75rem;
   height: 3rem;
+  font-weight: 700;
   background-color: hsl(158, 36%, 37%);
   color: hsl(0, 0%, 100%);
   border-radius: 0.5rem;
